@@ -170,3 +170,14 @@ draw = function() {
     ball.update();
      
 };
+As you can see, it is awesome.
+Share it!
+Show it!
+Tell the world!
+
+Made by MrGithub2021.
+To find him, click this:https://github.com/MrGithub2021
+Source code is here:https://github.com/MrGithub2021/TheNewPong.js/blob/main/NewPong.js
+Thank you!
+
+![github-octocat](https://user-images.githubusercontent.com/77593158/109397229-bdbbdb00-7903-11eb-9f97-549012271944.png)
